@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/svjk0/Downloads/javamail1_4_7/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/svjk0/Downloads/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/svjk0/Downloads/mysql-connector.jar/mysql-connector.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
